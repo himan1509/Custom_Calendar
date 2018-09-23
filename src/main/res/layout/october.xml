@@ -9,7 +9,7 @@
     <Spinner
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/monthlist"
+        android:id="@+id/monthlist10"
         android:layout_centerHorizontal="true"
         ></Spinner>
 
@@ -479,7 +479,6 @@
         android:progress="6"
         android:progressDrawable="@drawable/circle"
         android:layout_marginTop="495dp" />
-
 
 
 
